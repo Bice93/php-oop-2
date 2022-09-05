@@ -1,0 +1,11 @@
+Classi Principali:
+- Product;
+    -- Category;
+
+- Customer;
+    -- Customer login;
+
+- Cart;
+
+- Order;
+    --Payment;
