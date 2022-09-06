@@ -1,11 +1,15 @@
 Classi Principali:
 - Product;
     -- Category;
+    -- Food,
+    -- Toy,
+    -- Kennel,
 
 - Customer;
     -- Customer login;
 
 - Cart;
+    (product);
 
 - Order;
-    --Payment;
+    (customer, product);
